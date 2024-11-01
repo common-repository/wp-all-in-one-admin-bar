@@ -1,0 +1,226 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+div.singlerowdiv {
+
+	float:left;
+	width:100%;
+	margin-bottom:20px;
+	
+}
+
+div.colorlabeldiv {
+
+	float:left;
+	width:15%;
+	
+}
+
+div.colorpickerdiv {
+
+	float:left;
+	width:35%;
+	
+}
+
+div.checkboxdiv {
+
+	float:left;
+	width:5%;
+	
+}
+div.columnrestdiv {
+
+	float:left;
+	width:20%;
+	
+}
+
+div.bgdiv-half {
+
+	float:left;
+	width:50%;
+	min-height:100px;
+	margin-bottom:20px;
+	
+}
+
+div.bgdiv-half-colorlabeldiv {
+
+	float:left;
+	width:30%;
+	
+}
+
+div.bgdiv-half-colorpickerdiv  {
+
+	float:left;
+	width:70%;
+	
+}
+
+div.gradient-selector {
+
+	float:left;
+	width:100%;
+	margin-bottom:5px;
+	padding-top:5px;
+	border-top-style:solid;
+	border-top-color:#E9E9E9;
+	
+}
+
+div.gradient-half {
+
+	float:left;
+	width:50%;
+	
+}
+
+div.custom-menu-full {
+	float:left;
+	width:100%;
+	margin-bottom:5px;
+	padding-top:5px;
+	border-bottom-style:solid;
+	border-bottom-color:#E9E9E9;
+}
+
+.custom-menu-half{
+	float:left;
+	width:50%;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+div.custom-menu-one-fourth{
+	float:left;
+	width:25%;
+
+}
+div.custom-menu-label{
+	float:left;
+	width:15%;
+}
+div.custom-menu-content{
+	float:left;
+	width:35%;
+}
+.one-fifth{
+	float:left;
+	width:20%;
+}
+
+.wpaioab-one-tenth {
+	float:left;
+	width:10%;
+}
+.wpaioab-one-fourth {
+	float:left;
+	width:25%;
+}
+
+table.wpaioab-table th {
+	background : #F2EBFF;
+	padding: 5px;
+}
+
+.wpaioab-custom-menu-root {
+	background : #FFF0EB;
+}
+
+.wpaioab-custom-menu-item {
+	background : #F0F6FF;
+}
+
+.wpaioab-custom-child-item {
+	background : #F5FFDB;
+}
+
+.wpaioab-delete-button {
+  background-color: #E84F5E;
+  border: 1px solid #FF3838;
+  padding: 3px;
+  text-decoration:none
+}
+
+.wpaioab-delete-button:hover {opacity: 0.6; }
+
+.wpaioab-add-button {
+  background-color: #41F153;
+  border: 1px solid #15B225;
+  padding: 3px;
+  text-decoration:none
+}
+
+.wpaioab-add-button:hover {opacity: 0.6; }
+
+.wpaioab-text-box{
+	width : 105px;
+}
+
+#wpaioab_cover {
+  position: absolute;
+  height: 95%;
+  width: 95%;
+  z-index: 1; /* make sure logout_box has a z-index of 2 */
+  background-color: #ffffff;
+  display: none;
+  opacity: 0.3;
+  }
+  
+ .wpaioab-sample-colors-one-fifth-box {
+	float:left;
+	width:19%;
+	margin: 2px;
+	border: 1px solid #000000;
+}
+
+ .wpaioab-sample-menu-shadow-box {
+	float:left;
+	width:15%;
+	margin: 2px;
+	border: 1px solid #000000;
+}
+  
+  .wpaioab-sample-colors-one-fifth {
+	width:100%;
+	height: 50px;
+}
+  
+  .wpaioab-sample-colors-text-one-fifth {
+	width:100%;
+	height: 20px;
+}
+
+  .wpaioab-sample-menu-shadow-one-fifth {
+	width:100%;
+	height: 100px;
+	padding : 15px;
+}
+
+  .wpaioab-sample-menu-item-shadow-one-fifth {
+	width:100%;
+	height: 50px;
+	padding : 10px;
+}
+
+  .wpaioab-sample-menu-shadow-content {
+	width:70%;
+	height: 70px;
+	padding-top : 10px;
+	padding-bottom : 10px;
+	float:left;
+}
+
+  .wpaioab-sample-menu-item-shadow-content {
+	width:85%;
+	height: 25px;
+	padding-top : 10px;
+	padding-bottom : 10px;
+	float:left;
+	border: 1px solid #000000;
+}
+  
+  .wpaioab-sample-menu-shadow-text-one-fifth {
+	width:100%;
+	height: 20px;
+}

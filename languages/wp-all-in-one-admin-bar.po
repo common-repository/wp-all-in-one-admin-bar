@@ -1,0 +1,745 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wordpress-all-in-one-admin-bar\n"
+"POT-Creation-Date: 2014-06-08 17:09+1000\n"
+"PO-Revision-Date: 2014-06-08 17:09+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-all-in-one-admin-bar.php:22
+msgid "WP Logo"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:23
+msgid "About WordPress"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:24
+msgid "WP Org Link"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:25
+msgid "Documentation"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:26
+msgid "Support Forums"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:27
+msgid "Feedback"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:28
+msgid "Site Name"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:29 wp-all-in-one-admin-bar.php:36
+msgid "View Site"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:30
+msgid "Dashboard ( Front End Only )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:31
+msgid "Themes ( Front End Only )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:32
+msgid "Widgets ( Front End Only )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:33
+msgid "Menus ( Front End Only )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:34
+msgid "Updates"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:35
+msgid "Comments"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:37
+msgid "New Content"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:38
+msgid "New Post"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:39
+msgid "New Media"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:40
+msgid "New Link"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:41
+msgid "New Page"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:44
+msgid "New Forum (bbPress)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:45
+msgid "New Topic (bbPress)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:46
+msgid "New Reply (bbPress)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:49
+msgid "New Event ( Events Manager)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:50
+msgid "New Location ( Events Manager)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:51
+msgid "New Event Recurring( Events Manager)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:53
+msgid "New User"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:54
+msgid "My Account"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:55
+msgid "User Actions"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:56
+msgid "User Info"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:57
+msgid "Edit Profile"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:58
+msgid "Logout"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:61
+msgid "My Site ( Multisite )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:67
+msgid "Login From Admin Bar( BuddyPress )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:68
+msgid "Register From Admin Bar( BuddyPress )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:69
+msgid "Activity From My Account Menu ( BuddyPress )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:70
+msgid "Profile From My Account Menu ( BuddyPress )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:71
+msgid "Notifications From My Account Menu ( BuddyPress )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:72
+msgid "Messages From My Account Menu ( BuddyPress )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:73
+msgid "Friends From My Account Menu ( BuddyPress )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:74
+msgid "Groups From My Account Menu ( BuddyPress )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:75
+msgid "Settings From My Account Menu ( BuddyPress )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:77
+msgid "Sites From My Account Menu ( BuddyPress )"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:82
+msgid "Links From My Account Menu ( BuddyPress Links)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:86
+msgid "Follow From My Account Menu ( BuddyPress Followers)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:90
+msgid "Events From My Account Menu ( Events Manager)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:94
+msgid "Forums From My Account Menu (bbPress)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:98
+msgid "Media From My Account Menu (rtMedia)"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:102
+msgid "W3 Total Cache"
+msgstr ""
+
+#: wp-all-in-one-admin-bar.php:106
+msgid "SEO By Yoast"
+msgstr ""
+
+#: admin/class-wordpress-all-in-one-adminbar-admin.php:167
+msgid "Wordpress All In One Adminbar"
+msgstr ""
+
+#: admin/class-wordpress-all-in-one-adminbar-admin.php:168
+msgid "WPAIO Adminbar"
+msgstr ""
+
+#: admin/class-wordpress-all-in-one-adminbar-admin.php:184
+#: admin/views/admin.php:44
+msgid "Settings"
+msgstr ""
+
+#: admin/includes/class-wordpress-all-in-one-adminbar-custom-menu.php:158
+msgid "Menu Icon Image Size: "
+msgstr ""
+
+#: admin/includes/class-wordpress-all-in-one-adminbar-custom-menu.php:158
+msgid "Menu Icon Image URL : "
+msgstr ""
+
+#: admin/includes/class-wordpress-all-in-one-adminbar-custom-menu.php:162
+#: admin/views/admin.php:1139 admin/views/admin.php:1205
+msgid "Show This Menu For : "
+msgstr ""
+
+#: admin/includes/class-wordpress-all-in-one-adminbar-custom-menu.php:170
+msgid "Menu Root Label : "
+msgstr ""
+
+#: admin/includes/class-wordpress-all-in-one-adminbar-custom-menu.php:172
+msgid "Menu Root URL : "
+msgstr ""
+
+#: admin/includes/class-wordpress-all-in-one-adminbar-custom-menu.php:200
+msgid "Menu Item Label : "
+msgstr ""
+
+#: admin/includes/class-wordpress-all-in-one-adminbar-custom-menu.php:202
+msgid "Menu Item URL : "
+msgstr ""
+
+#: admin/includes/class-wordpress-all-in-one-adminbar-custom-menu.php:228
+msgid "Submenu Item Label : "
+msgstr ""
+
+#: admin/includes/class-wordpress-all-in-one-adminbar-custom-menu.php:230
+msgid "Submenu Item URL : "
+msgstr ""
+
+#: admin/views/admin.php:45
+msgid "Style Colors"
+msgstr ""
+
+#: admin/views/admin.php:46
+msgid "Background Images"
+msgstr ""
+
+#: admin/views/admin.php:47
+msgid "Shadows"
+msgstr ""
+
+#: admin/views/admin.php:48
+msgid "WP Menus"
+msgstr ""
+
+#: admin/views/admin.php:49
+msgid "Custom Menus"
+msgstr ""
+
+#: admin/views/admin.php:50
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/views/admin.php:60
+msgid "Disable Changes"
+msgstr ""
+
+#: admin/views/admin.php:64
+msgid "Apply Changes For"
+msgstr ""
+
+#: admin/views/admin.php:68
+msgid "Apply Changes For : "
+msgstr ""
+
+#: admin/views/admin.php:87
+msgid "Greeting Message"
+msgstr ""
+
+#: admin/views/admin.php:88
+msgid "Keep empty, if you need to remove greeting message"
+msgstr ""
+
+#: admin/views/admin.php:93
+msgid "Change the greeting message : "
+msgstr ""
+
+#: admin/views/admin.php:102
+msgid "WP / Custom Menu Action Hooks"
+msgstr ""
+
+#: admin/views/admin.php:108
+msgid "WP / Custom Menu Action Hooks : "
+msgstr ""
+
+#: admin/views/admin.php:125
+msgid "Merge Menu Styles"
+msgstr ""
+
+#: admin/views/admin.php:134
+msgid "Merge My Account Menu and Byddypress Menu Styles Together"
+msgstr ""
+
+#: admin/views/admin.php:145
+msgid ""
+"Merge rtMedia Menu Item and Byddypress Menu Styles Together. Note: This may "
+"not work perfectly with complex background gradient or image patterns"
+msgstr ""
+
+#: admin/views/admin.php:155
+msgid "Custom Logo"
+msgstr ""
+
+#: admin/views/admin.php:159
+msgid "Custom Logo Image"
+msgstr ""
+
+#: admin/views/admin.php:173 admin/views/admin.php:770
+#: admin/views/admin.php:787 admin/views/admin.php:804
+#: admin/views/admin.php:824 admin/views/admin.php:844
+#: admin/views/admin.php:866 admin/views/admin.php:886
+#: admin/views/admin.php:1110 admin/views/admin.php:1201
+msgid "Upload an image from your computer or enter the image location."
+msgstr ""
+
+#: admin/views/admin.php:179
+msgid "Hide Links"
+msgstr ""
+
+#: admin/views/admin.php:190
+msgid "Hide "
+msgstr ""
+
+#: admin/views/admin.php:196
+msgid "Move Adminbar to bottom"
+msgstr ""
+
+#: admin/views/admin.php:197
+msgid ""
+"Note that : I don't recommend enabling this feature if your site contains a "
+"chat application box or any widgets in the bottom of the page."
+msgstr ""
+
+#: admin/views/admin.php:203 admin/views/admin.php:917
+#: admin/views/admin.php:933 admin/views/admin.php:950
+#: admin/views/admin.php:965 admin/views/admin.php:980
+#: admin/views/admin.php:996 admin/views/admin.php:1039
+msgid "Enable"
+msgstr ""
+
+#: admin/views/admin.php:211
+msgid "Show / Hide Admin Bar according to the user roles"
+msgstr ""
+
+#: admin/views/admin.php:223
+msgid "Hide Admin Bar for "
+msgstr ""
+
+#: admin/views/admin.php:234
+msgid "Toggle / Auto Hide Admin Bar"
+msgstr ""
+
+#: admin/views/admin.php:235
+msgid ""
+"This feature is not available for admin area. If you are testing this "
+"feature for mobile devices from the desktop by changing the browser size, "
+"refresh the page after changing the browser size. "
+msgstr ""
+
+#: admin/views/admin.php:239
+msgid "Toggle / Auto Hide : "
+msgstr ""
+
+#: admin/views/admin.php:263
+msgid "OnMouseOut Delay (ms) : "
+msgstr ""
+
+#: admin/views/admin.php:270
+msgid "Admin Bar Moving Speed (ms) : "
+msgstr ""
+
+#: admin/views/admin.php:282
+msgid "Display Interval (ms) : "
+msgstr ""
+
+#: admin/views/admin.php:289
+msgid "Enable auto hide for mobile devices (beta): "
+msgstr ""
+
+#: admin/views/admin.php:294
+msgid ""
+"Note that --> To function perfectly OnMouseOut Delay : Admin Bar Moving "
+"Speed : Display Interval ratio should be 10:2:1"
+msgstr ""
+
+#: admin/views/admin.php:303
+msgid "Show Admin Bar Label : "
+msgstr ""
+
+#: admin/views/admin.php:319
+msgid "Hide Admin Bar Label : "
+msgstr ""
+
+#: admin/views/admin.php:337
+msgid "Label Background Color : "
+msgstr ""
+
+#: admin/views/admin.php:345
+msgid "Label Text Color : "
+msgstr ""
+
+#: admin/views/admin.php:355
+msgid "Text Size (px): "
+msgstr ""
+
+#: admin/views/admin.php:361
+msgid "Font Weight : "
+msgstr ""
+
+#: admin/views/admin.php:380
+msgid "Show / Hide Label Alignment : "
+msgstr ""
+
+#: admin/views/admin.php:398
+msgid "Outline Border Type (px) : "
+msgstr ""
+
+#: admin/views/admin.php:431
+msgid "Background Colors"
+msgstr ""
+
+#: admin/views/admin.php:437
+msgid "Enable Gradient Effect : "
+msgstr ""
+
+#: admin/views/admin.php:455 admin/views/admin.php:480
+#: admin/views/admin.php:508 admin/views/admin.php:535
+#: admin/views/admin.php:571 admin/views/admin.php:599
+msgid "Select a gradient pattern"
+msgstr ""
+
+#: admin/views/admin.php:469
+msgid "Admin Bar Background Color"
+msgstr ""
+
+#: admin/views/admin.php:474
+msgid "Admin Bar Secondary Background Color"
+msgstr ""
+
+#: admin/views/admin.php:495
+msgid "Menu Background Color"
+msgstr ""
+
+#: admin/views/admin.php:501
+msgid "Menu Secondary Background Color"
+msgstr ""
+
+#: admin/views/admin.php:523
+msgid "Menu Item Hover Background Color"
+msgstr ""
+
+#: admin/views/admin.php:529
+msgid "Menu Item Hover Secondary Background Color"
+msgstr ""
+
+#: admin/views/admin.php:550
+msgid "Adminbar Current Link Background Color"
+msgstr ""
+
+#: admin/views/admin.php:556
+msgid "Adminbar Current Link Secondary Background Color"
+msgstr ""
+
+#: admin/views/admin.php:567
+msgid "Buddypress Menu Background Colors"
+msgstr ""
+
+#: admin/views/admin.php:586
+msgid "Buddypress Menu Background"
+msgstr ""
+
+#: admin/views/admin.php:592
+msgid "Buddypress Menu Secondary Background Color"
+msgstr ""
+
+#: admin/views/admin.php:615
+msgid "Buddypress Sub Menu Background"
+msgstr ""
+
+#: admin/views/admin.php:621
+msgid "Buddypress Sub Menu Secondary Background Color"
+msgstr ""
+
+#: admin/views/admin.php:632
+msgid "Text Colors"
+msgstr ""
+
+#: admin/views/admin.php:634
+msgid "Menu Item Text Color"
+msgstr ""
+
+#: admin/views/admin.php:638
+msgid "Menu Item Text Hover Color"
+msgstr ""
+
+#: admin/views/admin.php:644
+msgid "Adminbar Links Text Color"
+msgstr ""
+
+#: admin/views/admin.php:648
+msgid "Adminbar Links Text Hover Color"
+msgstr ""
+
+#: admin/views/admin.php:656
+msgid "Search Box Text Color"
+msgstr ""
+
+#: admin/views/admin.php:662
+msgid "Icon Colors"
+msgstr ""
+
+#: admin/views/admin.php:664
+msgid "Adminbar Icon Color"
+msgstr ""
+
+#: admin/views/admin.php:668
+msgid "Adminbar Icon Hover Color"
+msgstr ""
+
+#: admin/views/admin.php:676
+msgid "Buddypress Notification Circle Color"
+msgstr ""
+
+#: admin/views/admin.php:678
+msgid "Before Notifications"
+msgstr ""
+
+#: admin/views/admin.php:680 admin/views/admin.php:692
+#: admin/views/admin.php:706
+msgid "Circle Background Color"
+msgstr ""
+
+#: admin/views/admin.php:684 admin/views/admin.php:696
+#: admin/views/admin.php:710
+msgid "Circle Text Color"
+msgstr ""
+
+#: admin/views/admin.php:690
+msgid "After Notifications"
+msgstr ""
+
+#: admin/views/admin.php:703
+msgid "Buddypress Messages Count Circle Color"
+msgstr ""
+
+#: admin/views/admin.php:718
+msgid "Links Separator Color"
+msgstr ""
+
+#: admin/views/admin.php:724
+msgid "Show Separators"
+msgstr ""
+
+#: admin/views/admin.php:732
+msgid "Border Left Color"
+msgstr ""
+
+#: admin/views/admin.php:736
+msgid "Border Right Color"
+msgstr ""
+
+#: admin/views/admin.php:753
+msgid "Upload Images"
+msgstr ""
+
+#: admin/views/admin.php:756
+msgid "Notification Area Background Image"
+msgstr ""
+
+#: admin/views/admin.php:777
+msgid "Hide Buddypress notification circle when notification count zero."
+msgstr ""
+
+#: admin/views/admin.php:783
+msgid "Adminbar Background Image"
+msgstr ""
+
+#: admin/views/admin.php:800
+msgid "Menu Background Image"
+msgstr ""
+
+#: admin/views/admin.php:820
+msgid "Menu Item Hover Background Image"
+msgstr ""
+
+#: admin/views/admin.php:840
+msgid "Current Adminbar Link Background Image"
+msgstr ""
+
+#: admin/views/admin.php:862
+msgid "Buddypress Menu Background Image"
+msgstr ""
+
+#: admin/views/admin.php:882
+msgid "Buddypress Submenu Background Image"
+msgstr ""
+
+#: admin/views/admin.php:909
+msgid "Text Shadow Colors"
+msgstr ""
+
+#: admin/views/admin.php:921
+msgid "Menu Item Text Shadow Color"
+msgstr ""
+
+#: admin/views/admin.php:937
+msgid "Menu Item Text Hover Shadow Color"
+msgstr ""
+
+#: admin/views/admin.php:954
+msgid "Adminbar Links Text Shadow Color"
+msgstr ""
+
+#: admin/views/admin.php:969
+msgid "Adminbar Links Text Hover Shadow Color"
+msgstr ""
+
+#: admin/views/admin.php:984
+msgid "Search Box Text Shadow Color"
+msgstr ""
+
+#: admin/views/admin.php:990
+msgid "Menu Shadows"
+msgstr ""
+
+#: admin/views/admin.php:998
+msgid "Menu Shadow Color"
+msgstr ""
+
+#: admin/views/admin.php:1006
+msgid "Menu Shadow Type"
+msgstr ""
+
+#: admin/views/admin.php:1035
+msgid "Menu Item Shadows"
+msgstr ""
+
+#: admin/views/admin.php:1042
+msgid "Menu Item Hover Shadow Color"
+msgstr ""
+
+#: admin/views/admin.php:1048
+msgid "Menu Item Shadow Type"
+msgstr ""
+
+#: admin/views/admin.php:1069
+msgid "Add WordPress Menu To Admin Bar"
+msgstr ""
+
+#: admin/views/admin.php:1078
+msgid "Select This Menu : "
+msgstr ""
+
+#: admin/views/admin.php:1082
+msgid "Menu Root / Location : "
+msgstr ""
+
+#: admin/views/admin.php:1097 admin/views/admin.php:1189
+msgid "Icon Image (optional) : "
+msgstr ""
+
+#: admin/views/admin.php:1119
+msgid "Custom Root Label : "
+msgstr ""
+
+#: admin/views/admin.php:1129
+msgid "Custom Root URL : "
+msgstr ""
+
+#: admin/views/admin.php:1167
+msgid "Custom Menu Root Label : "
+msgstr ""
+
+#: admin/views/admin.php:1178
+msgid "Add New Custom Menu Root"
+msgstr ""
+
+#: admin/views/admin.php:1181
+msgid "New Custom Menu Root Label : "
+msgstr ""
+
+#: admin/views/admin.php:1183
+msgid "New Custom Menu Root URL : "
+msgstr ""
+
+#: admin/views/admin.php:1185 admin/views/admin.php:1232
+#: admin/views/admin.php:1248
+msgid "Add"
+msgstr ""
+
+#: admin/views/admin.php:1225
+msgid "Add New Custom Menu Item"
+msgstr ""
+
+#: admin/views/admin.php:1228
+msgid "New Custom Menu Item Label : "
+msgstr ""
+
+#: admin/views/admin.php:1230
+msgid "New Custom Menu Item URL : "
+msgstr ""
+
+#: admin/views/admin.php:1241
+msgid "Add New Sub Menu Item"
+msgstr ""
+
+#: admin/views/admin.php:1244
+msgid "New Sub Menu Item Label : "
+msgstr ""
+
+#: admin/views/admin.php:1246
+msgid "New Sub Menu Item URL : "
+msgstr ""
